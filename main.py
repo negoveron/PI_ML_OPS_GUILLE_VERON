@@ -3,23 +3,24 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-if __name__ == '__main__':
-    app.run(debug=False)
-
 
 
 # Endpoints de la API
 # @profile
 @app.get('/PlayTimeGenre/{genre}')
 async def PlayTimeGenre(genre: str):
-    """
-    Examples
-    --------
-    >>> PlayTimeGenre("Shooter")
-    {'Año de lanzamiento con más horas jugadas para Género Shooter': '2022'}
-    """
-    
-        
+    try:
+        df_genero = pd.read_csv("data/play_time_genre.csv")
 
-    # Devolver el año con más horas jugadas para el género dado
-    return {"Año de lanzamiento con más horas jugadas para Género Shooter: 2022"}
+        # Filtrar el DataFrame por el género especificado
+
+        df_genero = df_genero[df_genero["genre"] == genre.lower()]
+
+        anio = list(df_genero[df_genero["playtime"] == df_genero["playtime"].max()]["anio"])[0]
+        
+        return {f"Año de lanzamiento con más horas jugadas para {genre}": anio}
+
+    except Exception as e:
+        return {"error": str(e)}     
+
+

@@ -1,0 +1,546 @@
+genre,anio,playtime
+ action,2008,1058
+ action,2012,1978255
+ adventure,1983,3473
+ adventure,1984,384
+ adventure,1988,16001
+ adventure,1989,607
+ adventure,1990,64
+ adventure,1991,1556
+ adventure,1992,1805
+ adventure,1993,19854
+ adventure,1994,1489
+ adventure,1995,114
+ adventure,1996,29286
+ adventure,1997,10802
+ adventure,1998,17409
+ adventure,1999,2030
+ adventure,2000,52000
+ adventure,2001,23232
+ adventure,2002,47839
+ adventure,2003,2287829
+ adventure,2004,39906
+ adventure,2005,179170
+ adventure,2006,155022
+ adventure,2007,345786
+ adventure,2008,2941005
+ adventure,2009,5592044
+ adventure,2010,24345677
+ adventure,2011,216723886
+ adventure,2012,58212639
+ adventure,2013,140997289
+ adventure,2014,51273557
+ adventure,2015,137309925
+ adventure,2016,47253323
+ adventure,2017,91595518
+ adventure,2018,21
+ casual,1983,3473
+ casual,1984,384
+ casual,1991,1355
+ casual,1992,2492
+ casual,1993,22039
+ casual,1994,10572
+ casual,1996,30015
+ casual,1997,30403
+ casual,1998,8129
+ casual,1999,632712
+ casual,2000,53103
+ casual,2001,5568
+ casual,2002,57980
+ casual,2003,1601
+ casual,2004,11027
+ casual,2005,1380
+ casual,2006,5190
+ casual,2007,6193
+ casual,2008,186316
+ casual,2009,351598
+ casual,2010,2040327
+ casual,2011,3057644
+ casual,2012,13185628
+ casual,2013,3948259
+ casual,2014,17745504
+ casual,2015,62397017
+ casual,2016,34436154
+ casual,2017,50892886
+ design & illustration,2007,11058
+ design & illustration,2008,2058
+ design & illustration,2013,291264
+ design & illustration,2014,76717
+ design & illustration,2015,1185446
+ design & illustration,2016,111382
+ early access,2012,3225527
+ early access,2013,118894525
+ early access,2014,11237132
+ early access,2015,13535613
+ early access,2016,9733354
+ early access,2017,34195
+ early access,2018,6127
+ education,2008,2058
+ education,2013,340554
+ education,2014,11306
+ education,2015,36079
+ education,2016,1934
+ free to play,1996,127
+ free to play,1999,627007
+ free to play,2001,4965
+ free to play,2003,5696248
+ free to play,2005,66729
+ free to play,2006,2561487
+ free to play,2007,212490
+ free to play,2008,112330
+ free to play,2009,319936
+ free to play,2010,1004414
+ free to play,2011,40846350
+ free to play,2012,104620208
+ free to play,2013,135700242
+ free to play,2014,37083054
+ free to play,2015,120228712
+ free to play,2016,19510460
+ free to play,2017,86140888
+ indie,1988,13962
+ indie,1995,3168
+ indie,1996,570
+ indie,1997,64285
+ indie,1998,19916
+ indie,1999,627007
+ indie,2000,3030
+ indie,2001,80282
+ indie,2002,37884
+ indie,2003,2123696
+ indie,2004,60
+ indie,2005,265314
+ indie,2006,3810275
+ indie,2007,1182120
+ indie,2008,266244
+ indie,2009,2622439
+ indie,2010,5529151
+ indie,2011,223435505
+ indie,2012,105732634
+ indie,2013,161647183
+ indie,2014,78255698
+ indie,2015,135914430
+ indie,2016,75608208
+ indie,2017,124713719
+ indie,2018,2224
+ massively multiplayer,2003,5995099
+ massively multiplayer,2007,117715
+ massively multiplayer,2008,104087
+ massively multiplayer,2009,2022008
+ massively multiplayer,2010,7444500
+ massively multiplayer,2011,43054516
+ massively multiplayer,2012,84773626
+ massively multiplayer,2013,133376423
+ massively multiplayer,2014,24945637
+ massively multiplayer,2015,40489749
+ massively multiplayer,2016,22063391
+ massively multiplayer,2017,63505161
+ photo editing,2007,11058
+ photo editing,2014,61659
+ photo editing,2015,669
+ photo editing,2016,38264
+ racing,1994,289
+ racing,1995,31004
+ racing,1997,9319
+ racing,1998,15125
+ racing,1999,32
+ racing,2000,3015
+ racing,2003,374
+ racing,2005,26701
+ racing,2006,64110
+ racing,2007,28225
+ racing,2008,625223
+ racing,2009,83050
+ racing,2010,85944
+ racing,2011,410432
+ racing,2012,294010
+ racing,2013,1634298
+ racing,2014,4120713
+ racing,2015,36075917
+ racing,2016,3457245
+ racing,2017,116167
+ rpg,1988,13962
+ rpg,1991,0
+ rpg,1992,2164
+ rpg,1994,2092
+ rpg,1996,18279
+ rpg,1999,275449
+ rpg,2000,52000
+ rpg,2001,101947
+ rpg,2003,8874150
+ rpg,2004,27529
+ rpg,2005,182490
+ rpg,2006,1835955
+ rpg,2007,3769555
+ rpg,2008,7623421
+ rpg,2009,13767355
+ rpg,2010,82589315
+ rpg,2011,220604270
+ rpg,2012,152446323
+ rpg,2013,121812250
+ rpg,2014,75875460
+ rpg,2015,102433929
+ rpg,2016,55027472
+ rpg,2017,67535068
+ rpg,2018,21
+ simulation,1987,235
+ simulation,1989,5084
+ simulation,1990,1048
+ simulation,1991,0
+ simulation,1993,65
+ simulation,1994,5224
+ simulation,1996,1918
+ simulation,1997,4979
+ simulation,1998,102776
+ simulation,1999,0
+ simulation,2000,57089
+ simulation,2001,33031
+ simulation,2002,65949
+ simulation,2003,1073
+ simulation,2004,34035
+ simulation,2005,94350
+ simulation,2006,441918139
+ simulation,2007,1232813
+ simulation,2008,946088
+ simulation,2009,2644439
+ simulation,2010,40773239
+ simulation,2011,13005322
+ simulation,2012,28623370
+ simulation,2013,93194836
+ simulation,2014,34019707
+ simulation,2015,83069979
+ simulation,2016,30245378
+ simulation,2017,24361496
+ simulation,2018,2203
+ software training,2008,2058
+ software training,2010,0
+ software training,2013,98765
+ software training,2014,412697
+ software training,2015,36140
+ software training,2016,481
+ software training,2017,9382
+ sports,1995,31004
+ sports,2005,69758
+ sports,2006,1999
+ sports,2007,1308
+ sports,2008,95749
+ sports,2009,227107
+ sports,2010,1987139
+ sports,2011,883491
+ sports,2012,2630922
+ sports,2013,6192179
+ sports,2014,5289187
+ sports,2015,38651065
+ sports,2016,4665546
+ sports,2017,22871
+ strategy,1988,13962
+ strategy,1991,0
+ strategy,1994,1123
+ strategy,1995,980
+ strategy,1996,7075
+ strategy,1997,2228
+ strategy,1998,41
+ strategy,1999,134131
+ strategy,2000,26052
+ strategy,2001,228415
+ strategy,2002,338453
+ strategy,2003,7127802
+ strategy,2004,191805
+ strategy,2005,91854
+ strategy,2006,6083803
+ strategy,2007,333102
+ strategy,2008,2292607
+ strategy,2009,7642396
+ strategy,2010,41971166
+ strategy,2011,28511930
+ strategy,2012,64459622
+ strategy,2013,100319585
+ strategy,2014,44127078
+ strategy,2015,76823536
+ strategy,2016,25586043
+ strategy,2017,5831758
+ utilities,2006,173
+ utilities,2007,11058
+ utilities,2008,2058
+ utilities,2013,488120
+ utilities,2014,562459
+ utilities,2015,78657
+ utilities,2016,38690
+ utilities,2017,9403
+ video production,2006,173
+ video production,2007,11058
+ video production,2012,4010
+ video production,2013,224132
+ video production,2014,484437
+ video production,2015,1308441
+ video production,2016,1380
+ web publishing,2007,11058
+ web publishing,2012,1930339
+ web publishing,2013,333678
+ web publishing,2014,33641
+ web publishing,2015,348487
+ web publishing,2016,136
+ web publishing,2017,9382
+action,1983,3473
+action,1984,384
+action,1988,16001
+action,1989,607
+action,1990,18335
+action,1991,2502
+action,1992,1925
+action,1993,24623
+action,1994,120177
+action,1995,216144
+action,1996,67844
+action,1997,359836
+action,1998,2899116
+action,1999,2715157
+action,2000,18357855
+action,2001,1326310
+action,2002,732102
+action,2003,11893403
+action,2004,129693956
+action,2005,12264943
+action,2006,10772811
+action,2007,17530208
+action,2008,33538611
+action,2009,163833683
+action,2010,180087364
+action,2011,331621803
+action,2012,1083521966
+action,2013,415522232
+action,2014,166959854
+action,2015,261917688
+action,2016,95798762
+action,2017,126334352
+action,2018,2224
+adventure,1987,7712
+adventure,1988,13962
+adventure,1989,8704
+adventure,1990,5428
+adventure,1991,166
+adventure,1992,21990
+adventure,1993,26918
+adventure,1994,14401
+adventure,1995,9912
+adventure,1996,74913
+adventure,1997,313603
+adventure,1998,161422
+adventure,1999,5705
+adventure,2000,53121
+adventure,2001,27387
+adventure,2002,136608
+adventure,2003,2901600
+adventure,2004,56243
+adventure,2005,27263
+adventure,2006,48954
+adventure,2007,53387
+adventure,2008,335309
+adventure,2009,1176466
+adventure,2010,555367
+adventure,2011,4908005
+adventure,2012,15193641
+adventure,2013,10014391
+adventure,2014,18918303
+adventure,2015,43285438
+adventure,2016,14874980
+adventure,2017,1237164
+animation & modeling,2008,2058
+animation & modeling,2012,17914
+animation & modeling,2013,434433
+animation & modeling,2014,79513
+animation & modeling,2015,1345545
+animation & modeling,2016,114708
+audio production,2007,11058
+audio production,2013,73161
+audio production,2014,455463
+audio production,2015,5060
+audio production,2016,459
+casual,1994,35403
+casual,1995,3553
+casual,1996,570
+casual,1997,2118
+casual,1998,4829
+casual,1999,217
+casual,2000,15
+casual,2001,675
+casual,2002,3632
+casual,2003,1447
+casual,2004,13190
+casual,2005,39328
+casual,2006,231087
+casual,2007,723328
+casual,2008,383149
+casual,2009,585219
+casual,2010,2735470
+casual,2011,2924236
+casual,2012,7176605
+casual,2013,8964269
+casual,2014,7451920
+casual,2015,19309866
+casual,2016,9363217
+casual,2017,29662
+design & illustration,2012,1930339
+design & illustration,2013,1539
+design & illustration,2014,115920
+design & illustration,2015,348567
+design & illustration,2016,1223
+design & illustration,2017,21
+early access,2013,8368
+early access,2014,2070
+early access,2015,59
+education,2010,9
+education,2013,13
+education,2014,11226
+education,2015,4
+education,2016,390
+education,2017,9382
+free to play,2003,298851
+free to play,2005,0
+free to play,2008,103189
+free to play,2009,2022008
+free to play,2010,7590596
+free to play,2011,2245130
+free to play,2012,10647619
+free to play,2013,10513492
+free to play,2014,3122937
+free to play,2015,8403186
+free to play,2016,3786121
+free to play,2017,94551
+indie,1998,41
+indie,2000,2274
+indie,2001,8170
+indie,2003,3664
+indie,2004,43119
+indie,2005,70956
+indie,2006,442304997
+indie,2007,157997
+indie,2008,4989368
+indie,2009,1187082
+indie,2010,3004086
+indie,2011,1862042
+indie,2012,17439954
+indie,2013,15700575
+indie,2014,13924662
+indie,2015,37667923
+indie,2016,13967778
+indie,2017,880456
+indie,2018,102
+massively multiplayer,2013,80
+massively multiplayer,2014,13118015
+massively multiplayer,2015,18758
+massively multiplayer,2016,9512
+photo editing,2006,173
+photo editing,2012,2678
+photo editing,2015,1
+racing,1996,1202
+racing,1998,5
+racing,2003,30583
+racing,2004,3477
+racing,2005,188691
+racing,2006,362015
+racing,2007,555123
+racing,2008,1785520
+racing,2009,2314406
+racing,2010,1955119
+racing,2011,1943451
+racing,2012,701579
+racing,2013,3089904
+racing,2014,1416179
+racing,2015,1391326
+racing,2016,159066
+rpg,1996,7075
+rpg,1997,359624
+rpg,1998,378188
+rpg,1999,55684
+rpg,2000,1240
+rpg,2001,18279
+rpg,2002,1783174
+rpg,2003,156689
+rpg,2004,44569
+rpg,2005,2963387
+rpg,2006,2482
+rpg,2007,5693769
+rpg,2008,2703090
+rpg,2009,11863124
+rpg,2010,8980230
+rpg,2011,7279323
+rpg,2012,11006284
+rpg,2013,3290864
+rpg,2014,5977641
+rpg,2015,49172935
+rpg,2016,1032771
+rpg,2018,3801
+simulation,1987,0
+simulation,1988,1
+simulation,1989,0
+simulation,1990,878
+simulation,1991,144
+simulation,1992,11
+simulation,1994,4127
+simulation,1995,980
+simulation,1998,4361
+simulation,1999,129301
+simulation,2000,12342
+simulation,2001,214877
+simulation,2002,287412
+simulation,2003,1357066
+simulation,2004,101893
+simulation,2005,80670
+simulation,2006,2618252
+simulation,2007,172068
+simulation,2008,3743094
+simulation,2009,13643056
+simulation,2010,963854
+simulation,2011,3341786
+simulation,2012,364168
+simulation,2013,15841433
+simulation,2014,3277813
+simulation,2015,8801427
+simulation,2016,5780275
+simulation,2017,70999
+software training,2015,465
+sports,2006,9183
+sports,2008,1779
+sports,2009,22573
+sports,2010,389501
+sports,2011,41194
+sports,2012,883638
+sports,2014,137632
+sports,2015,2646311
+sports,2016,28128
+strategy,1990,60
+strategy,1993,182863
+strategy,1994,46
+strategy,1995,54247
+strategy,1996,1393
+strategy,1997,131343
+strategy,1998,26068
+strategy,1999,440810
+strategy,2000,5000
+strategy,2001,712880
+strategy,2002,146999
+strategy,2003,205253
+strategy,2004,3494577
+strategy,2005,920074
+strategy,2006,11142401
+strategy,2007,2824553
+strategy,2008,5818868
+strategy,2009,24134578
+strategy,2010,98977733
+strategy,2011,6001128
+strategy,2012,21124159
+strategy,2013,44947165
+strategy,2014,6202093
+strategy,2015,5378688
+strategy,2016,5734989
+strategy,2017,32185
+utilities,2006,382756
+utilities,2012,10338
+utilities,2013,163337
+utilities,2014,2149236
+utilities,2015,499809
+utilities,2016,77610
+video production,2015,354209
+web publishing,2005,93844
+web publishing,2015,186
+web publishing,2016,0
