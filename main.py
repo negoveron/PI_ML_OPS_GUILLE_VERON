@@ -1,5 +1,3 @@
-from fastapi.encoders import jsonable_encoder
-from fastapi.responses import JSONResponse
 import pandas as pd
 from fastapi import FastAPI
 
@@ -60,11 +58,10 @@ async def recomendacion_juego(id_juego: str):
     if id_juego.isdigit() == True:
         try:
             df_recom = pd.read_csv("data/recomendacion_db.csv",sep=";")
-
+            
             # Filtrar el DataFrame por el game_id especificado
             df_recom = df_recom[df_recom["game_id"] == int(id_juego)]
-            json_compatible_item_data = {id_juego:jsonable_encoder(df_recom["recom"][0])}
-            return JSONResponse(content=json_compatible_item_data)
+            return {"id_juego":id_juego,"recom":df_recom["recom"].to_dict()}            
             
 
         except Exception as e:
